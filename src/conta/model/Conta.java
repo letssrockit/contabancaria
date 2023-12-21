@@ -1,6 +1,6 @@
 package conta.model;
 
-public class Conta {
+public abstract class Conta {
 	
 	//criando atributos
 	private int numero;
@@ -109,4 +109,3 @@ public class Conta {
 				
 				}
 			}
-
